@@ -1,4 +1,5 @@
 # Roblox Dahood Scripts gzzly#2800
+All Scripts Taken From https://discord.gg/streamable
 ----------------------------
 
 # Feeware
